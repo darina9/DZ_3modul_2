@@ -1,0 +1,15 @@
+C:\мое обучение\DZ_2\Zadacha_15\bin\Debug\net6.0\Zadacha_15.exe
+C:\мое обучение\DZ_2\Zadacha_15\bin\Debug\net6.0\Zadacha_15.deps.json
+C:\мое обучение\DZ_2\Zadacha_15\bin\Debug\net6.0\Zadacha_15.runtimeconfig.json
+C:\мое обучение\DZ_2\Zadacha_15\bin\Debug\net6.0\Zadacha_15.dll
+C:\мое обучение\DZ_2\Zadacha_15\bin\Debug\net6.0\Zadacha_15.pdb
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.csproj.AssemblyReference.cache
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.AssemblyInfoInputs.cache
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.AssemblyInfo.cs
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.csproj.CoreCompileInputs.cache
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.dll
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\refint\Zadacha_15.dll
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.pdb
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\Zadacha_15.genruntimeconfig.cache
+C:\мое обучение\DZ_2\Zadacha_15\obj\Debug\net6.0\ref\Zadacha_15.dll
